@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.385015">
+<testcase classname="Login Feature" name="Login to Amazon site" time="0.385015">
+<system-out><![CDATA[Given User has launched the site and is on home page........................passed
+When User clicks on "Sign in" button........................................passed
+Then Login page should be displayed.........................................passed
+And User enters the Email or Mobile number and click on "Continue" button...passed
+And User enters the password and click on "Login" button....................passed
+Then User should be logged in successfully and Homepage should be launched with Hello "username"..passed
+]]></system-out>
+</testcase>
+</testsuite>
